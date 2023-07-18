@@ -15,7 +15,7 @@ https://github.com/Rishabh1662/netflix-logo/assets/130847211/789dd8fd-f83c-4e5c-
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/netflix-animated-logo.git`
+1. Clone the repository: `git clone https://github.com/Rishabh1662/netflix-animated-logo.git`
 2. Open the project folder.
 3. Open the `index.html` file in your preferred browser.
 
